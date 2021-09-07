@@ -7,7 +7,9 @@
 
 - 🌱 I love maths, programming, machine learning and games.
 
-- 📫 How to reach me **ajaman190@gmail.com**
+- 📫 How to reach me 
+     - [Email](ajaman190@gmail.com)
+     - [Linkedin](https://www.linkedin.com/in/aman-kumar-586b23216/)
 
 
 <br>
