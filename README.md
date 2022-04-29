@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaman190&label=Profile%20views&color=0e75b6&style=flat" alt="ajaman190" /> </p>
 
-- 🔭 I’m a 2nd undergraduate student of **IIT Kharagpur**
+- 🔭 I’m a 3rd undergraduate student of **IIT Kharagpur**
 
 - 🌱 I love maths, programming, machine learning and games.
 
