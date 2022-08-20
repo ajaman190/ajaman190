@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaman190&label=Profile%20views&color=0e75b6&style=flat" alt="ajaman190" /> </p>
 
-- 🔭 I’m a 2nd undergraduate student of **IIT Kharagpur**
+- 🔭 I’m a 3rd undergraduate student of **IIT Kharagpur**
 
-- 🌱 I love maths, programming, machine learning and games.
+- 🌱 I love competitive programming, machine learning and games.
+
+- ⚙️ I’m currently learning DevOps and BlockChain
+
+- 💕 I’m looking to collaborate on Web App or Mobile App project as a full stack developer
 
 - 📫 How to reach me 
      - [Email](ajaman190@gmail.com)
