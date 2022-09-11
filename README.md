@@ -12,7 +12,7 @@
 - 💕 I’m looking to collaborate on Web App or Mobile App project as a full stack developer
 
 - 📫 How to reach me 
-     - [Email](ajaman190@gmail.com)
+     - Email: aman.kumar.iitkgpian@gmail.com
      - [Linkedin](https://www.linkedin.com/in/aman-kumar-586b23216/)
 
 
