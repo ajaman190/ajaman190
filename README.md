@@ -7,7 +7,7 @@
 
 - 🌱 I love competitive programming, machine learning, and games.
 
-- ⚙️ I’m currently learning DevOps and BlockChain
+- ⚙️ I’m currently learning DevOps.
 
 - 💕 I’m looking to collaborate on the Backend and DevOps projects.
 
