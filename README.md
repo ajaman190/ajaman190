@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate learner</h3>
+<h4 align="center">🌱 Growing greatness on GitHub. Just patiently riding the time-wave to harvest epic code moments. Planting bugs, but also dreams! #CodeFarmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaman190&label=Profile%20views&color=0e75b6&style=flat" alt="ajaman190" /> </p>
 
