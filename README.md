@@ -5,7 +5,7 @@
 
 - 🔭 I’m a pre-final year undergraduate student at **IIT Kharagpur**
 
-- 🌱 I love competitive programming, machine learning, and games.
+- 🌱 I love competitive programming and playing games.
 
 - ⚙️ I’m currently learning DevOps.
 
